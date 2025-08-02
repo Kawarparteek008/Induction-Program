@@ -11,9 +11,19 @@
 
  # Day 2
  ## List
- • Tests of English & Mathematics 
+  • Tests of English & Mathematics 
 
- • break
+  • break
 
- • Lecture in Auditorium 
+  • Lecture in Auditorium 
+
+ # Day 3
+ ## List
+  • Lecture of Dr. Jawinder Singh       Sir in auditorium 
+
+  • Speech of HOD
+
+  • Lecture of Dr. Priya Darshani       Mam in auditorium 
+
+ 
 
