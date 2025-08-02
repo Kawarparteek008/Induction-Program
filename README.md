@@ -8,3 +8,12 @@
  • Speech 
  
  • HOD Speech
+
+ # Day 2
+ ## List
+ • Tests of English & Mathematics 
+
+ • break
+
+ • Lecture in Auditorium 
+
