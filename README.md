@@ -1,2 +1,6 @@
 # Induction-Program
-Kawarparteek Singh IT branch
+# Day 1
+## Guru Dwara Sahib
+## Auditorium 
+## Speech 
+## 
