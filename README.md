@@ -17,12 +17,30 @@ A day full of inspiration, tradition, and new beginnings! 🌟
 
 
  # Day 2
- ## List
-  • Tests of English & Mathematics 
+ 
+A warm and inspiring welcome was given to the newly admitted students of Computer Science and Engineering (CSE) and Information Technology (IT) at Guru Nanak Dev Engineering College, Ludhiana.
 
-  • break
+✨ The day began with Path and Kirtan at the College Gurudwara Sahib, blessing the new beginnings of our future tech leaders.
 
-  • Lecture in Auditorium 
+🎥 Students were introduced to the college’s legacy through a college orientation presentation, followed by a motivational video featuring our proud alumni — Sangam Arora and Arshpreet Singh (Batch 2025) — sharing how dedication and involvement beyond the classroom shaped their successful journeys.
+
+💡 Insightful addresses by:
+
+Dr. Sehijpal Singh (Principal)
+
+Dr. Harpreet Kaur Grewal (HoD, Applied Sciences)
+
+Dr. Akshay Girdhar (Dean Academics)
+
+Dr. Parminder Singh (Dean Student Welfare)
+
+
+🌟 Special thanks to our Guests of Honour:
+🔹 Er. Ravinder Garg – Chief Engineer, Municipal Corporation, Ludhiana
+🔹 Er. Rakesh Kumar – GNDEC Alumnus (Batch 1991), ADC Ludhiana for sharing their inspiring journeys and encouraging students to grow with values, skills, and vision.
+
+📍 The event concluded with a Vote of Thanks by Dr. K.S. Mann, HoD IT.
+
 
  # Day 3
  ## List
